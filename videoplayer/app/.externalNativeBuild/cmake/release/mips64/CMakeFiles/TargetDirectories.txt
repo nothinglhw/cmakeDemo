@@ -1,0 +1,3 @@
+/Users/hengwulan/Documents/videoplayer/app/.externalNativeBuild/cmake/release/mips64/CMakeFiles/edit_cache.dir
+/Users/hengwulan/Documents/videoplayer/app/.externalNativeBuild/cmake/release/mips64/CMakeFiles/rebuild_cache.dir
+/Users/hengwulan/Documents/videoplayer/app/.externalNativeBuild/cmake/release/mips64/CMakeFiles/VideoPlayer.dir

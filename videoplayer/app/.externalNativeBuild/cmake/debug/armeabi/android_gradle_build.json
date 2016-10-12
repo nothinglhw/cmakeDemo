@@ -1,0 +1,81 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/hengwulan/Documents/videoplayer/app/src/main/cpp/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"/Applications/Androidsdk/cmake/3.6.3155560/bin/cmake --build /Users/hengwulan/Documents/videoplayer/app/.externalNativeBuild/cmake/debug/armeabi --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"VideoPlayer-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "VideoPlayer",
+			"buildCommand" : "/Applications/Androidsdk/cmake/3.6.3155560/bin/cmake --build /Users/hengwulan/Documents/videoplayer/app/.externalNativeBuild/cmake/debug/armeabi --target VideoPlayer",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  -target armv5te-none-linux-androideabi -gcc-toolchain /Applications/Androidsdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Applications/Androidsdk/ndk-bundle/platforms/android-9/arch-arm  -DVideoPlayer_EXPORTS -I/Users/hengwulan/Documents/videoplayer/app/src/main/cpp/include -isystem /Applications/Androidsdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Applications/Androidsdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi/include -isystem /Applications/Androidsdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti  -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/hengwulan/Documents/videoplayer/app/src/main/cpp/VideoPlayer.cpp",
+					"workingDirectory" : "/Users/hengwulan/Documents/videoplayer/app/.externalNativeBuild/cmake/debug/armeabi"
+				}
+			],
+			"output" : "/Users/hengwulan/Documents/videoplayer/app/.externalNativeBuild/cmake/debug/obj/armeabi/libVideoPlayer.so",
+			"toolchain" : "12189857156810330095"
+		},
+		"avcodec-57_lib-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "avcodec-57_lib",
+			"buildType" : "debug",
+			"output" : "/Users/hengwulan/Documents/videoplayer/app/src/main/cpp/../jniLibs/armeabi/libavcodec-57.so",
+			"toolchain" : "12189857156810330095"
+		},
+		"avformat-57_lib-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "avformat-57_lib",
+			"buildType" : "debug",
+			"output" : "/Users/hengwulan/Documents/videoplayer/app/src/main/cpp/../jniLibs/armeabi/libavformat-57.so",
+			"toolchain" : "12189857156810330095"
+		},
+		"avutil-55_lib-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "avutil-55_lib",
+			"buildType" : "debug",
+			"output" : "/Users/hengwulan/Documents/videoplayer/app/src/main/cpp/../jniLibs/armeabi/libavutil-55.so",
+			"toolchain" : "12189857156810330095"
+		},
+		"swresample-2_lib-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "swresample-2_lib",
+			"buildType" : "debug",
+			"output" : "/Users/hengwulan/Documents/videoplayer/app/src/main/cpp/../jniLibs/armeabi/libswresample-2.so",
+			"toolchain" : "12189857156810330095"
+		},
+		"swscale-4_lib-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "swscale-4_lib",
+			"buildType" : "debug",
+			"output" : "/Users/hengwulan/Documents/videoplayer/app/src/main/cpp/../jniLibs/armeabi/libswscale-4.so",
+			"toolchain" : "12189857156810330095"
+		}
+	},
+	"toolchains" : 
+	{
+		"12189857156810330095" : 
+		{
+			"cCompilerExecutable" : "/Applications/Androidsdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Applications/Androidsdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

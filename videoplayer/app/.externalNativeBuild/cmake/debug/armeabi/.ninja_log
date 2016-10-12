@@ -1,0 +1,15 @@
+# ninja log v5
+0	288	0	CMakeFiles/VideoPlayer.dir/VideoPlayer.cpp.o	7dfa85eef131e10e
+0	136	0	CMakeFiles/VideoPlayer.dir/VideoPlayer.cpp.o	c001f70f067af2ef
+1	88	0	CMakeFiles/VideoPlayer.dir/VideoPlayer.cpp.o	c001f70f067af2ef
+88	108	0	/Users/hengwulan/Documents/videoplayer/app/.externalNativeBuild/cmake/debug/obj/armeabi/libVideoPlayer.so	28dba28e8ec7e8dd
+1	82	0	CMakeFiles/VideoPlayer.dir/VideoPlayer.cpp.o	c001f70f067af2ef
+82	102	0	/Users/hengwulan/Documents/videoplayer/app/.externalNativeBuild/cmake/debug/obj/armeabi/libVideoPlayer.so	28dba28e8ec7e8dd
+1	90	0	CMakeFiles/VideoPlayer.dir/VideoPlayer.cpp.o	c001f70f067af2ef
+90	112	0	/Users/hengwulan/Documents/videoplayer/app/.externalNativeBuild/cmake/debug/obj/armeabi/libVideoPlayer.so	28dba28e8ec7e8dd
+0	96	0	CMakeFiles/VideoPlayer.dir/VideoPlayer.cpp.o	c001f70f067af2ef
+96	117	0	/Users/hengwulan/Documents/videoplayer/app/.externalNativeBuild/cmake/debug/obj/armeabi/libVideoPlayer.so	28dba28e8ec7e8dd
+0	83	0	CMakeFiles/VideoPlayer.dir/VideoPlayer.cpp.o	c001f70f067af2ef
+83	103	0	/Users/hengwulan/Documents/videoplayer/app/.externalNativeBuild/cmake/debug/obj/armeabi/libVideoPlayer.so	28dba28e8ec7e8dd
+1	318	0	CMakeFiles/VideoPlayer.dir/VideoPlayer.cpp.o	c001f70f067af2ef
+318	426	0	/Users/hengwulan/Documents/videoplayer/app/.externalNativeBuild/cmake/debug/obj/armeabi/libVideoPlayer.so	28dba28e8ec7e8dd

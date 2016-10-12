@@ -1,0 +1,81 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/hengwulan/Documents/videoplayer/app/src/main/cpp/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"/Applications/Androidsdk/cmake/3.6.3155560/bin/cmake --build /Users/hengwulan/Documents/videoplayer/app/.externalNativeBuild/cmake/debug/mips64 --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"VideoPlayer-Debug-mips64" : 
+		{
+			"abi" : "mips64",
+			"artifactName" : "VideoPlayer",
+			"buildCommand" : "/Applications/Androidsdk/cmake/3.6.3155560/bin/cmake --build /Users/hengwulan/Documents/videoplayer/app/.externalNativeBuild/cmake/debug/mips64 --target VideoPlayer",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  -target mips64el-none-linux-android -gcc-toolchain /Applications/Androidsdk/ndk-bundle/toolchains/mips64el-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Applications/Androidsdk/ndk-bundle/platforms/android-21/arch-mips64  -DVideoPlayer_EXPORTS -I/Users/hengwulan/Documents/videoplayer/app/src/main/cpp/include -isystem /Applications/Androidsdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Applications/Androidsdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/mips64/include -isystem /Applications/Androidsdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti  -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/hengwulan/Documents/videoplayer/app/src/main/cpp/VideoPlayer.cpp",
+					"workingDirectory" : "/Users/hengwulan/Documents/videoplayer/app/.externalNativeBuild/cmake/debug/mips64"
+				}
+			],
+			"output" : "/Users/hengwulan/Documents/videoplayer/app/.externalNativeBuild/cmake/debug/obj/mips64/libVideoPlayer.so",
+			"toolchain" : "12189857156810330095"
+		},
+		"avcodec-57_lib-Debug-mips64" : 
+		{
+			"abi" : "mips64",
+			"artifactName" : "avcodec-57_lib",
+			"buildType" : "debug",
+			"output" : "/Users/hengwulan/Documents/videoplayer/app/src/main/cpp/../jniLibs/mips64/libavcodec-57.so",
+			"toolchain" : "12189857156810330095"
+		},
+		"avformat-57_lib-Debug-mips64" : 
+		{
+			"abi" : "mips64",
+			"artifactName" : "avformat-57_lib",
+			"buildType" : "debug",
+			"output" : "/Users/hengwulan/Documents/videoplayer/app/src/main/cpp/../jniLibs/mips64/libavformat-57.so",
+			"toolchain" : "12189857156810330095"
+		},
+		"avutil-55_lib-Debug-mips64" : 
+		{
+			"abi" : "mips64",
+			"artifactName" : "avutil-55_lib",
+			"buildType" : "debug",
+			"output" : "/Users/hengwulan/Documents/videoplayer/app/src/main/cpp/../jniLibs/mips64/libavutil-55.so",
+			"toolchain" : "12189857156810330095"
+		},
+		"swresample-2_lib-Debug-mips64" : 
+		{
+			"abi" : "mips64",
+			"artifactName" : "swresample-2_lib",
+			"buildType" : "debug",
+			"output" : "/Users/hengwulan/Documents/videoplayer/app/src/main/cpp/../jniLibs/mips64/libswresample-2.so",
+			"toolchain" : "12189857156810330095"
+		},
+		"swscale-4_lib-Debug-mips64" : 
+		{
+			"abi" : "mips64",
+			"artifactName" : "swscale-4_lib",
+			"buildType" : "debug",
+			"output" : "/Users/hengwulan/Documents/videoplayer/app/src/main/cpp/../jniLibs/mips64/libswscale-4.so",
+			"toolchain" : "12189857156810330095"
+		}
+	},
+	"toolchains" : 
+	{
+		"12189857156810330095" : 
+		{
+			"cCompilerExecutable" : "/Applications/Androidsdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Applications/Androidsdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}
